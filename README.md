@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @labrc
+- 👋 Hi, I’m Lautaro
 - 👀 I’m interested in pyhon, arduino and Cinematography
 - 📫 How to reach me fl4ut4@gmail.com
 
