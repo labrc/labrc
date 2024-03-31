@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @labrc
-- 👀 I’m interested in Cinematography, and basic programming
+- 👀 I’m interested in pyhon, arduino and Cinematography
 - 📫 How to reach me fl4ut4@gmaiil.com
 
 <!---
